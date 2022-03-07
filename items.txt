@@ -1,0 +1,4 @@
+4 Leaf clover,5,luck,
+health potion,10,health,
+medium health potion,25,health,
+large health potion,50,health,

@@ -1,0 +1,3 @@
+Short Sword,10,
+Long Sword,15,
+Berserker Sword,20,

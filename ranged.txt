@@ -1,0 +1,3 @@
+Short Bow,10,
+Long Bow,15,
+Hunters Bow,20,

@@ -1,0 +1,3 @@
+Wind Blow scroll,10,
+Thunder scroll,15,
+Fireball scroll,20,
